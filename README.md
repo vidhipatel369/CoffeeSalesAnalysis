@@ -12,3 +12,5 @@ Identified bestselling coffee products and least performing items.
 Discovered peak sales periods based on monthly and seasonal trends.
 Analyzed customer buying patterns to predict future sales.
 Provided recommendations for inventory management and marketing strategies.
+# Review Images
+![Image](https://github.com/user-attachments/assets/cf3ee834-9802-4571-b6b8-4cad5fdfe431)
